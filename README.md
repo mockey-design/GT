@@ -42,4 +42,4 @@ sensor_plot.pngという名前のセンサーデータのプロットを含むPN
 
 これらの出力ファイルは入力ファイルと同じディレクトリ上に出力される。
 
-##graph_edit2.ipynbはgraph_edit2.pyのipynb形式
+#graph_edit2.ipynbはgraph_edit2.pyのipynb形式
