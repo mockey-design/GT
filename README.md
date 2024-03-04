@@ -27,11 +27,17 @@ python3 graph_edit2.py <csvファイルへのパス>
 #Requirments
 
 Python 3
+
 Pandas
+
 Matplotlib
+
 Numpy
 
 #出力
+
 updated_log_228.csvという名前の修正されたCSVファイル
+
 sensor_plot.pngという名前のセンサーデータのプロットを含むPNGファイル
+
 これらの出力ファイルは入力ファイルと同じディレクトリ上に出力される。
