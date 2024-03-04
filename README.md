@@ -41,3 +41,5 @@ updated_log_228.csvという名前の修正されたCSVファイル
 sensor_plot.pngという名前のセンサーデータのプロットを含むPNGファイル
 
 これらの出力ファイルは入力ファイルと同じディレクトリ上に出力される。
+
+##graph_edit2.ipynbはgraph_edit2.pyのipynb形式
