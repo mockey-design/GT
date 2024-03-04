@@ -82,7 +82,7 @@ def plot_data(df,path):
             ax.grid(True, which='both', linestyle='--', color='grey', alpha=0.5)
         axes[-1,-1].axis('off')
         plt.tight_layout(rect=[0, 0, 0.85, 1])
-        plt.savefig(save_path,dpi = 450)
+        plt.savefig(save_path,dpi = 300)
     print('"Saved "sensor_plot.png" successfully"')
 
 if __name__ == '__main__':
