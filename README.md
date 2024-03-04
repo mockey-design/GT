@@ -1,4 +1,4 @@
-## GT
+## About graph_edit2.py
 
 #Overview
 
