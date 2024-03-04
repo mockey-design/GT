@@ -20,9 +20,9 @@ CSVファイルからセンサーデータを読み込み、特定のセンサ�
 
 #Command
 
-'　'　'
+’ ’ ’
 python3 graph_edit2.py <csvファイルへのパス>
-'　'　'
+’ ’ ’
 
 #Requirments
 
